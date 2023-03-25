@@ -1,6 +1,8 @@
-### Hi there 👋
-
-<!--
+###  👋 merhaba ben talhaarslan10
+⚡çok hızlı koşarım
+🌱 ben severim kod yazmayı
+🌱forvet ve defansda iyi oynarım
+😄futbol oynamayı severim
 **talhaarslan10/talhaarslan10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
